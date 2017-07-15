@@ -9,7 +9,7 @@
         android:title="second page"
         android:id="@+id/recyclerview"/>
     <item android:icon="@color/colorAccent"
-        android:title="third page" 
+        android:title="third page"
         android:id="@+id/recyclergridview"/>
 
 </group>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:title="mark all read"
+    android:id="@+id/mark_all_read"
+    app:showAsAction="never"/>
+    <item android:title="action clear notification"
+        android:id="@+id/action_clear_all"
+        app:showAsAction="never"/>
+</menu>
