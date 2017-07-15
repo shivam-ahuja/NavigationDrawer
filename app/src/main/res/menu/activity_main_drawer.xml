@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:icon="@color/colorPrimaryDark"
+        android:title="ist page"
+        android:id="@+id/listview"/>
+    <item
+        android:icon="@color/colorPrimary"
+        android:title="second page"
+        android:id="@+id/recyclerview"/>
+    <item android:icon="@color/colorAccent"
+        android:title="third page" 
+        android:id="@+id/recyclergridview"/>
+
+</group>
+</menu>
