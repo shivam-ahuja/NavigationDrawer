@@ -8,7 +8,7 @@
 
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme.AppCompat.Light.NoActionBar">
+        android:theme="@style/AppTheme.AppCompat.Light.NoActionBar"  >
         <activity android:name=".activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
